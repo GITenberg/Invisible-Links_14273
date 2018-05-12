@@ -1,0 +1,42 @@
+_repo: Invisible-Links_14273
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Flach, Pauline Bancroft
+    gutenberg_agent_id: '39555'
+    url: http://www.gutenberg.org/2009/agents/39555
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories'
+tableOfContents: The spirit of fasting and Petter Nord -- The legend of the bird's
+  nest -- The king's grave -- The outlaws -- The legend of Reor -- Valdemar Atterdag
+  -- Mamsell Fredrika -- The romance of a fisherman's wife -- Mother's portrait --
+  A fallen king -- A Christmas guest -- Uncle Reuben -- Downie -- Among the climbing
+  roses.
+title: Invisible Links
+url: http://www.gutenberg.org/ebooks/14273
